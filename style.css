@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+:root {
+    --color-primary: #000000;
+    --color-secondary: #FD1D1D;
+    --color-terceario: rgba(253, 251, 251, 0.2);
+    --fuente-principal: "Playfair Display", serif;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    box-sizing: border-box;
+}
+
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./img/mapa3.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    filter: blur(2px); /* Ajusta el nivel de difuminado */
+    z-index: -1;
+    pointer-events: none;
+    opacity: 0.8; /* Ajusta la opacidad si lo deseas */
+}
+
+.container-fluid{
+    font-family: var(--fuente-principal);
+}
+
+
+
+.navbar__img{
+    width: 140px;
+    height: 70px;
+    margin-left: 40px;
+}
+
+.texto__parrafo{
+    font-family: var(--fuente-principal);
+}
+
+.footer {
+    text-align: center;
+    padding: 20px;
+    font-family: var(--fuente-principal);
+    background-color: var(--color-terceario);
+    font-size: 16px;
+    font-weight: 400;
+    color: var(--color-primary);
+    
+}
+
+.footer__nav {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+   
+}
+
+.footer__nav__link__img {
+    width: 30px;
+    height: 30px;
+}
