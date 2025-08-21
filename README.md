@@ -24,13 +24,13 @@ La práctica consiste en crear una página web dedicada a mi anime favorito: **O
 
 ## 📸 Primera vista previa
 <p align="center">
-  <img src="#" alt="Vista previa del proyecto" width="700">
+  <img src="./screenshot.png" alt="Vista previa del proyecto" width="700">
 </p>
 
 ---
 ## 📸 Segunda vista previa
 <p align="center">
-  <img src="#" alt="Vista previa del proyecto" width="700">
+  <img src="./captura.png" alt="Vista previa del proyecto" width="700">
 </p>
 
 ---
@@ -47,5 +47,6 @@ Daniel Gallardo
 📚 Estudiante y programador junior aprendiendo HTML, CSS, JavaScript.
 
 🎉 Extra
+
 
 "El tesoro existe. ¡Lo dejé todo allí! Reúnan a quien deseen, ¡y búsquenlo! Jajaja!" – Gol D. Roger 🏴‍☠️
