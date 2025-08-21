@@ -30,7 +30,7 @@ La práctica consiste en crear una página web dedicada a mi anime favorito: **O
 ---
 ## 📸 Segunda vista previa
 <p align="center">
-  <img src="./captura.png" alt="Vista previa del proyecto" width="700">
+  <img src="./captura_2.png" alt="Vista previa del proyecto" width="700">
 </p>
 
 ---
@@ -50,3 +50,4 @@ Daniel Gallardo
 
 
 "El tesoro existe. ¡Lo dejé todo allí! Reúnan a quien deseen, ¡y búsquenlo! Jajaja!" – Gol D. Roger 🏴‍☠️
+
