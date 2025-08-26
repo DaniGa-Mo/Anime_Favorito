@@ -34,6 +34,12 @@ La práctica consiste en crear una página web dedicada a mi anime favorito: **O
 </p>
 
 ---
+## 📸 Tercera vista previa
+<p align="center">
+  <img src="./Captura_3.png" alt="Vista previa del proyecto" width="700">
+</p>
+
+---
 
 ## 🚀 Cómo usarlo
 1. Clona este repositorio:

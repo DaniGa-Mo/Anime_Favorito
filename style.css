@@ -17,6 +17,14 @@ body {
     box-sizing: border-box;
 }
 
+.main{
+    flex: 1;
+}
+
+.row {
+    justify-content: center;
+}
+
 body::before {
     content: "";
     position: fixed;
@@ -52,11 +60,9 @@ body::before {
 
 .footer {
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     font-family: var(--fuente-principal);
     background-color: var(--color-terceario);
-    font-size: 16px;
-    font-weight: 400;
     color: var(--color-primary);
     
 }
